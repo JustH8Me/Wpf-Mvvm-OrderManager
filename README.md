@@ -17,3 +17,6 @@ CRM-система для управления заказами сервисно
 4.  **Умный поиск:** Поиск по ID, Имени клиента или Описанию.
 
 ##  Скриншоты
+<img width="977" height="588" alt="изображение" src="https://github.com/user-attachments/assets/1ac4d6ac-e936-43ba-8871-646aeb1ee08f" />
+<img width="986" height="583" alt="изображение" src="https://github.com/user-attachments/assets/19669fde-f76b-476c-a05e-536cb8c1a41e" />
+
